@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pmajule
-- 👀 I’m interested in software development 
+- 👀 I’m interested in software development & Cyber security 
 - 🌱 I’m currently learning software programming 
 - 💞️ I’m looking to collaborate on programming 
 - 📫 How to reach me pmajule14@gmail.com 
